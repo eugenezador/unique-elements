@@ -1,5 +1,5 @@
 # Unique elements
-Numbres enters to stdin until -1 
+Numbres enters to stdin until -1. 
 Remove all duplicate elements.
 
 example:
